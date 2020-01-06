@@ -1,0 +1,6 @@
+# VScode setting
+/.vscode
+
+# local configuration
+*.conf
+
